@@ -23,4 +23,23 @@ Explore the dashboards below. Each has its onw deidcated README with more detail
 - Buttons & Bookmarks for Page Navigation
 - Drill-through Functionality
 
-[View Full README](/data_Jobs_v1/README.md)
+[View Full README](/Data_Jobs_v1/README.md)
+
+## Data Jobs Dashboard (V2 - Single Page)
+
+![dashboard page 1](/images/project_2.png)
+
+**Key Power BI Skills Utilized:**
+
+- Advanced Dashboard Design
+- Complex Power Query
+- Star Schema Data Modeling
+- Explicit DAX Measures
+- Dynamic Visualization
+- Field & Numeric Parameters
+- Enhanced Geospatial Insights
+- Advanced Card Visualizations
+- Optimized Slicers & Advanced Cross-Filtering
+- Report Performance Considerations
+
+[View Full README](/Data_Jobs_v2/README.md)
